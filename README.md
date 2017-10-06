@@ -32,7 +32,7 @@ The last option is simply an exit which closes the mysql connection and displays
 
 ---
 
-![Bamazon Manager Portal](bamazon_Manager.gif)
+![Bamazon Manager Portal](images/bamazon_Manager.gif)
 
 
 #### Creator:
